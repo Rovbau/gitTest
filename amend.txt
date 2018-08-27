@@ -1,0 +1,3 @@
+der Code hier 21.41
+git commit --amend  / ueberscchreibe letzten commit
+git push --force    / push ignoriere Warnung
